@@ -1,4 +1,6 @@
-I am what is impolitely, but totally correctly, referred to as a "graybeard".
+![alt text](desk_small.png)
+
+I am what is impolitely, but entirely correctly, referred to as a "graybeard".
 
 I've been an embedded engineer on and off for over 40 years. I've worked with Motorola,Zilog, Hitachi, ARM and a swathe of now long-forgotten microcontrollers in that time.
 
