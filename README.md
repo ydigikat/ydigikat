@@ -6,7 +6,7 @@ I've been an embedded engineer on and off for over 40 years. I've worked with Mo
 
 These days I'm a principal engineer, so my main job is to draw pictures for others to code. This is why I do this hobby, like most programmers, I find hands-on coding both enjoyable and creative.
 
-I'm a musician, once classically trained,who was seduced by the wages in 1983 to switch career. I performed as a keyboardist until the early 2000s and I've worked with many, now vintage, synthesisers during that time.
+I'm a musician, once classically trained,who was seduced by the IT wages in 1983 to change career. I performed as a keyboardist until the early 2000s and I've worked with many, now vintage, synthesisers during that time.
 
 Audio DSP is just a hobby, it merges my two careers which I find exciting and challenging. As I head into retirement I need something to keep my brain active and perhaps generate an income stream - who knows?.
 
